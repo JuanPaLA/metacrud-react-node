@@ -2,6 +2,7 @@
 
 ## What is this?
 This is a REACT NODE web application where I try to explore the limits of reusable components featuring a CRUD system.
+The quid of this project is to use javascript schemes prototypes to automate forms and validate data.
 
 ## Why I do this?
 
